@@ -19,7 +19,7 @@ I'm a passionate technology enthusiast interested in building innovative solutio
 - **Android Development:** Kotlin, Jetpack Compose
 - **Tools:** Git, GitHub, VS Code, Android Studio
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
 - **BEACON** – Emergency Alert and Communication System
 - **Student Management System** – React-based management application
